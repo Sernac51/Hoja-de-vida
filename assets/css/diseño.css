@@ -1,9 +1,19 @@
+section{
+    font-family: Arial,sans-serif;
+    
+}
 .encabezado{
     font-family: Arial,sans-serif;
+    font-size:30px;
     color: white;
     padding: 26px;
     background-color: rgb(89, 167, 219);
     text-indent:25%;
+}
+a{
+    text-align: left;
+    padding-left: 20rem;
+    font-size:small;
 }
 .encabezado2{
     font-family: Arial,sans-serif;
@@ -22,9 +32,26 @@
     padding-bottom:10px ;
     padding-top:10px 
 }
-
-
-
 .img{
-    float:right;
+    margin-top:2rem;
+    margin-right: 10rem;
+    float:right; 
+}
+.subparrafo{
+    font-family: Arial,sans-serif;
+    text-indent: 15%;
+    font-size:small;
+}
+ol{
+    margin-left:13rem;
+    white-space: pre-line;
+    
+}
+ul{
+    margin-left:13rem;
+    white-space: pre-line;
+    
+}
+.link{
+    font-size: medium;
 }
